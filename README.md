@@ -46,9 +46,6 @@ Here are some ideas to get you started:
   <!-- Vue.js -->
   <img src="https://skillicons.dev/icons?i=vue" width="40"/>
 
-  <!-- Cloud -->
-  <img src="https://skillicons.dev/icons?i=cloudflare" width="40"/>
-
   <!-- Ubuntu -->
   <img src="https://skillicons.dev/icons?i=ubuntu" width="40"/>
 
@@ -58,7 +55,5 @@ Here are some ideas to get you started:
   <!-- Java -->
   <img src="https://skillicons.dev/icons?i=java" width="40"/>
 
-  <!-- HTML -->
-  <img src="https://skillicons.dev/icons?i=html" width="40"/>
 </p>
 
