@@ -55,5 +55,10 @@ Here are some ideas to get you started:
   <!-- Java -->
   <img src="https://skillicons.dev/icons?i=java" width="40"/>
 
+  <!-- Oracle -->
+  <img src="https://skillicons.dev/icons?i=oracle" width="40"/>
+
+  <!-- MySQL -->
+  <img src="https://skillicons.dev/icons?i=mysql" width="40"/>
 </p>
 
