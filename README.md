@@ -47,12 +47,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NhebPanha&theme=tokyonight" height="165"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NhebPanha&theme=tokyonight&hide_border=true&area=true" width="100%" />
+</p>
+
 ---
 
 ## 🌱 Currently Learning
-- Advanced Flutter Animations
-- Clean Architecture
-- Scalable Supabase Backend
+- 🧪 Advanced Flutter Animations & Shaders
+- 🏗️ Domain Driven Design (DDD) in Flutter
+- ☁️ Scalable Supabase Edge Functions
 
 ---
 
@@ -62,8 +66,9 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Flutter+%7C+Supabase+%7C+Firebase;Happy+Coding+🚀"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=42A5F5&center=true&vCenter=true&width=500&lines=Building+Beautiful+Mobile+Apps+📱;Flutter+%26+Dart+Specialist;Supabase+%26+Firebase+Expert+🔥;Happy+Coding+from+Cambodia!+🇰🇭" alt="Typing SVG" />
 </p>
 
-<!-- 🔥 Animated Bottom Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00d2ff&height=100&section=footer&text=Keep%20Coding%20with%20Passion%20✨&fontSize=25&animation=fadeIn" />
+</p>
