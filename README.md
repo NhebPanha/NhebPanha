@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://stats.pphat.top/stats?username=NhebPanha&avatar_mode=radar&data_border_style=solid&data_border_frame_position=in" />
-</p>
-
 ## 🚀 Flutter Developer | Supabase | Firebase | Vue  
 🎨 UI-focused | Clean Architecture | Mobile & Web  
 🇰🇭 Cambodia
@@ -17,6 +13,9 @@
 - 🎨 UI/UX Design enthusiast using **Figma**
 
 ---
+<p align="center">
+  <img src="https://stats.pphat.top/stats?username=NhebPanha&avatar_mode=radar&data_border_style=solid&data_border_frame_position=in" />
+</p>
 
 ### 🛠️ Languages & Tools
 
