@@ -1,4 +1,4 @@
-## 🚀 Flutter Developer | Supabase | Firebase | Vue  
+## 🚀 Flutter Developer | Supabase | Firebase | Vue UX/UI
 🎨 UI-focused | Clean Architecture | Mobile & Web  
 🇰🇭 Cambodia
 
