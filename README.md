@@ -1,187 +1,218 @@
-<div align="center">
-
 # 👋 Hi, I'm Nheb Panha
 
-### 🚀 Flutter Developer • Mobile Architect • UI/UX Enthusiast
+### 🚀 Senior Flutter Developer | Mobile App Architect | UI/UX Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=700&lines=Flutter+Developer+🚀;Supabase+%26+Firebase+Expert+🔥;Clean+Architecture+Advocate+🏗️;Creating+Beautiful+Digital+Experiences+✨" />
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Flutter+Developer+🚀;Supabase+%26+Firebase+Specialist+🔥;Clean+Architecture+Advocate+🏗️;Mobile+App+Architect+📱;Building+Scalable+Applications+✨" />
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=NhebPanha&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-
-</div>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=NhebPanha&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/NhebPanha?style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/NhebPanha?style=for-the-badge" />
+</p>
 
 ---
 
-## 💫 About Me
+# 💫 About Me
 
 ```yaml
 name: Nheb Panha
 location: Cambodia 🇰🇭
 role: Flutter Developer
-experience: Mobile & Web Development
+experience: Mobile & Web Application Development
+
 specialization:
   - Flutter & Dart
   - Supabase & Firebase
   - Clean Architecture
-  - UI/UX Design
-  - REST API Integration
-  - State Management (Bloc, Provider, Riverpod)
+  - RESTful APIs
+  - State Management (Bloc, Riverpod, Provider)
+  - Responsive UI/UX
+  - CI/CD Deployment
 
 currently_learning:
   - Advanced Flutter Animations
   - SwiftUI & Native iOS
-  - Backend Scalability
   - AI Integration
+  - Cloud Architecture
+  - Backend Scalability
+
+goal:
+  Build world-class mobile applications used by millions.
 
 fun_fact:
-  "I love turning ideas into beautiful applications."
+  "I love transforming ideas into scalable digital products."
 ```
 
 ---
 
-## ⚡ Tech Stack
+# ⚡ Tech Stack
 
-### 🎨 Frontend
+## 🎨 Frontend
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=flutter,dart,vue,html,css,js,ts" />
 </p>
 
-### ⚙️ Backend
+## ⚙️ Backend & Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,supabase,firebase,mysql,mongodb" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,supabase,firebase,mysql,mongodb,postgres" />
 </p>
 
-### 🛠️ Tools
+## ☁️ Cloud & DevOps
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,androidstudio,linux,ubuntu" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,githubactions,linux,ubuntu" />
+</p>
+
+## 🛠️ Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,androidstudio,postman" />
 </p>
 
 ---
 
-## 🚀 Expertise
-
-<table>
-<tr>
-<td width="50%">
+# 🚀 Core Expertise
 
 ### 📱 Mobile Development
 
-- Flutter Applications
-- Android & iOS Deployment
-- Responsive UI Design
-- Clean Architecture
-- State Management
-- Push Notifications
-- Maps & Location Services
-
-</td>
-
-<td width="50%">
+* Flutter Application Development
+* Android & iOS Deployment
+* Clean Architecture
+* State Management
+* Firebase & Supabase Integration
+* Push Notifications
+* Google Maps Integration
+* Payment Gateway Integration
+* Performance Optimization
 
 ### 🔥 Backend Development
 
-- Supabase
-- Firebase
-- RESTful APIs
-- Authentication Systems
-- PostgreSQL
-- Realtime Database
-- Cloud Functions
+* Supabase
+* Firebase
+* REST API Development
+* Authentication & Authorization
+* PostgreSQL
+* Realtime Database
+* Cloud Functions
+* Storage Management
 
-</td>
-</tr>
-</table>
+### 🎨 UI/UX Design
+
+* Responsive Design
+* Material Design 3
+* Figma to Flutter
+* Animation & Micro-interactions
+* User Experience Optimization
 
 ---
 
-## 📊 GitHub Analytics
+# 🏆 Achievements
 
-<div align="center">
+* 🚀 Developed multiple production-ready Flutter applications
+* 📱 Published Android applications
+* 🔥 Built scalable Supabase-based systems
+* 🎨 Designed modern and responsive UI/UX solutions
+* 💼 Developed ERP, E-Commerce, Food Delivery, and Wallet Applications
 
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NhebPanha&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhebPanha&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+</p>
 
 ---
 
-## 🔥 Contribution Streak
+# 🔥 Contribution Streak
 
-<div align="center">
-
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NhebPanha&theme=tokyonight&hide_border=true"/>
-
-</div>
+</p>
 
 ---
 
-## 📈 Activity Graph
+# 📈 Activity Graph
 
-<div align="center">
-
+<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NhebPanha&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=NhebPanha&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
+</p>
 
 ---
 
-## 🌱 Current Focus
+# 🌱 Current Focus
 
-- 🚀 Building Enterprise Flutter Applications
-- 🔥 Scalable Supabase Architecture
-- 🎨 Advanced UI Animations
-- 📱 Native iOS Development with SwiftUI
-- 🤖 AI-Powered Mobile Applications
-
----
-
-## 💼 Featured Projects
-
-### 🏢 ERP Mobile Application
-
-Enterprise Resource Planning platform featuring:
-
-- Employee Management
-- Payroll System
-- Attendance Tracking
-- Inventory Management
-- HR Management
-- Real-time Notifications
-- Role-Based Permissions
-
-### 🍔 Food Delivery Platform
-
-- Live Tracking
-- Driver Navigation
-- Order Management
-- Payment Integration
-- Push Notifications
-
-### 🛒 E-Commerce Solution
-
-- Product Management
-- Shopping Cart
-- Payment Gateway
-- User Authentication
-- Order Tracking
+* 🚀 Enterprise Flutter Applications
+* 🔥 Supabase Scalable Architecture
+* 🎨 Advanced UI Animations
+* 📱 SwiftUI Development
+* 🤖 AI-Powered Mobile Apps
+* ☁️ Cloud Infrastructure
 
 ---
 
-## 🌐 Connect With Me
+# 💼 Featured Projects
+
+## 🏢 ERP Management System
+
+Features:
+
+* Employee Management
+* Payroll Management
+* Attendance Tracking
+* Inventory Management
+* HR Management
+* Role & Permission System
+* Push Notifications
+
+## 🍔 Food Delivery Platform
+
+Features:
+
+* Live Order Tracking
+* Driver Navigation
+* Real-Time Updates
+* Online Payment
+* Push Notifications
+
+## 🛒 E-Commerce Platform
+
+Features:
+
+* Product Management
+* Shopping Cart
+* Secure Payment
+* Order Tracking
+* Customer Dashboard
+
+## 💰 Digital Wallet App
+
+Features:
+
+* Balance Management
+* QR Payment
+* Transaction History
+* Money Transfer
+* Security Authentication
+
+---
+
+# 🎓 Certifications & Learning
+
+* Flutter Development
+* Firebase Integration
+* REST API Development
+* Clean Architecture
+* UI/UX Design
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -190,10 +221,10 @@ Enterprise Resource Planning platform featuring:
 </a>
 
 <a href="mailto:nhebpanha78@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://www.linkedin.com">
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -201,10 +232,12 @@ Enterprise Resource Planning platform featuring:
 
 ---
 
-<div align="center">
+# 💬 Quote
 
-### ⚡ "Code. Create. Innovate."
+> "Code is not just about solving problems. It's about creating experiences that make life easier."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00D4FF,100:0066FF&section=footer"/>
+---
 
-</div>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00D4FF,100:0066FF&section=footer"/>
+</p>
