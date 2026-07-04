@@ -21,7 +21,7 @@ name: Nheb Panha
 
 location: Phnom Penh, Cambodia 🇰🇭
 
-role: Senior Flutter Developer
+role: Flutter Developer
 
 experience:
   - Mobile Application Development
