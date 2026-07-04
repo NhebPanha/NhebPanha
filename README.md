@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Nheb Panha
 
-### 🚀 Senior Flutter Developer | Mobile App Architect | UI/UX Enthusiast
+### 🚀 Flutter Developer | Mobile App Architect | Supabase Specialist
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Flutter+Developer+🚀;Supabase+%26+Firebase+Specialist+🔥;Clean+Architecture+Advocate+🏗️;Mobile+App+Architect+📱;Building+Scalable+Applications+✨" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Senior+Flutter+Developer+🚀;Mobile+App+Architect+📱;Supabase+%26+Firebase+Specialist+🔥;Clean+Architecture+Expert+🏗️;Building+Scalable+Digital+Products+✨;AI-Powered+Mobile+Solutions+🤖" />
 </p>
 
 <p align="center">
@@ -18,105 +18,173 @@
 
 ```yaml
 name: Nheb Panha
-location: Cambodia 🇰🇭
-role: Flutter Developer
-experience: Mobile & Web Application Development
+
+location: Phnom Penh, Cambodia 🇰🇭
+
+role: Senior Flutter Developer
+
+experience:
+  - Mobile Application Development
+  - Enterprise System Development
+  - Full Stack Product Development
 
 specialization:
   - Flutter & Dart
   - Supabase & Firebase
   - Clean Architecture
-  - RESTful APIs
-  - State Management (Bloc, Riverpod, Provider)
-  - Responsive UI/UX
+  - Bloc State Management
+  - RESTful API Integration
+  - Google Maps & Location Services
+  - Push Notifications
+  - Payment Gateway Integration
   - CI/CD Deployment
-
-currently_learning:
-  - Advanced Flutter Animations
-  - SwiftUI & Native iOS
   - AI Integration
+
+currently_working_on:
+  - Enterprise ERP Systems
+  - Food Delivery Platforms
+  - Digital Wallet Applications
+  - E-Commerce Solutions
+  - AI-Powered Mobile Applications
+
+learning:
+  - SwiftUI
   - Cloud Architecture
-  - Backend Scalability
+  - Advanced Flutter Animations
+  - AI Agents & Automation
+  - Scalable Backend Systems
 
-goal:
-  Build world-class mobile applications used by millions.
+mission:
+  Deliver high-quality mobile experiences that solve real-world business problems.
 
-fun_fact:
-  "I love transforming ideas into scalable digital products."
+motto:
+  "Build once. Scale everywhere."
 ```
 
 ---
 
 # ⚡ Tech Stack
 
-## 🎨 Frontend
+## 📱 Mobile Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,vue,html,css,js,ts" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,firebase" />
 </p>
 
-## ⚙️ Backend & Database
+### Expertise
+
+* Flutter
+* Dart
+* Bloc
+* Provider
+* Riverpod
+* Clean Architecture
+* Responsive Design
+* Offline First Applications
+* App Performance Optimization
+
+---
+
+## 🔥 Backend & Database
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,supabase,firebase,mysql,mongodb,postgres" />
+<img src="https://skillicons.dev/icons?i=supabase,firebase,nodejs,mysql,postgres,mongodb" />
 </p>
 
-## ☁️ Cloud & DevOps
+### Expertise
+
+* Supabase
+* Firebase
+* PostgreSQL
+* MySQL
+* MongoDB
+* Authentication & Authorization
+* Realtime Applications
+* Storage & Media Management
+* REST APIs
+
+---
+
+## ☁️ DevOps & Cloud
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,githubactions,linux,ubuntu" />
+<img src="https://skillicons.dev/icons?i=docker,githubactions,linux,ubuntu,git,github" />
 </p>
 
-## 🛠️ Tools
+### Experience
+
+* Git & GitHub
+* GitLab
+* CI/CD Pipelines
+* Docker
+* Linux Server Management
+* Deployment Automation
+
+---
+
+## 🎨 Design & Productivity
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,androidstudio,postman" />
+<img src="https://skillicons.dev/icons?i=figma,vscode,postman" />
 </p>
+
+### Workflow
+
+* Figma to Flutter
+* UI/UX Implementation
+* API Testing
+* Agile Development
 
 ---
 
 # 🚀 Core Expertise
 
-### 📱 Mobile Development
+## 📱 Mobile Applications
 
-* Flutter Application Development
-* Android & iOS Deployment
+* Enterprise Applications
+* E-Commerce Platforms
+* Food Delivery Systems
+* Digital Wallet Applications
+* Inventory Management Systems
+* Employee Management Systems
+* Logistics & Delivery Tracking
+* Social Media Applications
+
+## 🏗️ Software Architecture
+
 * Clean Architecture
-* State Management
-* Firebase & Supabase Integration
-* Push Notifications
-* Google Maps Integration
-* Payment Gateway Integration
-* Performance Optimization
+* Modular Architecture
+* Feature-Based Structure
+* Scalable State Management
+* SOLID Principles
 
-### 🔥 Backend Development
+## 🤖 AI Integration
 
-* Supabase
-* Firebase
-* REST API Development
-* Authentication & Authorization
-* PostgreSQL
-* Realtime Database
-* Cloud Functions
-* Storage Management
-
-### 🎨 UI/UX Design
-
-* Responsive Design
-* Material Design 3
-* Figma to Flutter
-* Animation & Micro-interactions
-* User Experience Optimization
+* AI Chat Assistants
+* OpenAI Integration
+* Content Generation
+* Smart Search Features
+* Workflow Automation
 
 ---
 
-# 🏆 Achievements
+# 🏆 Professional Highlights
 
-* 🚀 Developed multiple production-ready Flutter applications
-* 📱 Published Android applications
-* 🔥 Built scalable Supabase-based systems
-* 🎨 Designed modern and responsive UI/UX solutions
-* 💼 Developed ERP, E-Commerce, Food Delivery, and Wallet Applications
+✅ Developed multiple production-ready Flutter applications
+
+✅ Built scalable ERP systems for business operations
+
+✅ Developed real-time food delivery platforms
+
+✅ Created wallet and financial management applications
+
+✅ Implemented Supabase architecture for enterprise projects
+
+✅ Designed and implemented complex Flutter UI/UX systems
+
+✅ Integrated Google Maps, Payment Systems, and Push Notifications
+
+✅ Experience leading complete mobile development lifecycle
 
 ---
 
@@ -129,86 +197,58 @@ fun_fact:
 
 ---
 
-# 🔥 Contribution Streak
+# 🔥 Featured Projects
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NhebPanha&theme=tokyonight&hide_border=true"/>
-</p>
+## 🏢 Enterprise ERP System
 
----
+* Employee Management
+* HR Management
+* Payroll Management
+* Attendance Tracking
+* Inventory Management
+* Reporting Dashboard
+* Role & Permission Control
 
-# 📈 Activity Graph
+## 🍔 Food Delivery Platform
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NhebPanha&theme=tokyo-night&hide_border=true"/>
-</p>
+* Real-Time Order Tracking
+* Driver Navigation
+* Google Maps Integration
+* Push Notifications
+* Payment Integration
+* Delivery Management
+
+## 🛒 E-Commerce Solution
+
+* Product Management
+* Shopping Cart
+* Order Processing
+* Customer Dashboard
+* Analytics & Reports
+
+## 💰 Digital Wallet
+
+* QR Payment
+* Money Transfer
+* Transaction History
+* Wallet Management
+* Security Authentication
 
 ---
 
 # 🌱 Current Focus
 
-* 🚀 Enterprise Flutter Applications
-* 🔥 Supabase Scalable Architecture
-* 🎨 Advanced UI Animations
-* 📱 SwiftUI Development
-* 🤖 AI-Powered Mobile Apps
-* ☁️ Cloud Infrastructure
+🚀 Enterprise Flutter Applications
 
----
+🔥 Supabase Architecture
 
-# 💼 Featured Projects
+🏗️ Clean Architecture
 
-## 🏢 ERP Management System
+🤖 AI Integration
 
-Features:
+📱 SwiftUI Development
 
-* Employee Management
-* Payroll Management
-* Attendance Tracking
-* Inventory Management
-* HR Management
-* Role & Permission System
-* Push Notifications
-
-## 🍔 Food Delivery Platform
-
-Features:
-
-* Live Order Tracking
-* Driver Navigation
-* Real-Time Updates
-* Online Payment
-* Push Notifications
-
-## 🛒 E-Commerce Platform
-
-Features:
-
-* Product Management
-* Shopping Cart
-* Secure Payment
-* Order Tracking
-* Customer Dashboard
-
-## 💰 Digital Wallet App
-
-Features:
-
-* Balance Management
-* QR Payment
-* Transaction History
-* Money Transfer
-* Security Authentication
-
----
-
-# 🎓 Certifications & Learning
-
-* Flutter Development
-* Firebase Integration
-* REST API Development
-* Clean Architecture
-* UI/UX Design
+☁️ Cloud Infrastructure
 
 ---
 
@@ -232,9 +272,9 @@ Features:
 
 ---
 
-# 💬 Quote
+# 💬 Personal Philosophy
 
-> "Code is not just about solving problems. It's about creating experiences that make life easier."
+> "Technology should simplify complexity, empower people, and create meaningful experiences. Every line of code should contribute to that goal."
 
 ---
 
