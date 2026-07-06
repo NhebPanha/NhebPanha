@@ -1,283 +1,127 @@
-# 👋 Hi, I'm Nheb Panha
+<!-- ================= HERO HEADER ================= -->
 
-### 🚀 Flutter Developer | Mobile App Architect | Supabase Specialist
+<h1 align="center">
+  ⚡ Nheb Panha ⚡
+</h1>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Senior+Flutter+Developer+🚀;Mobile+App+Architect+📱;Supabase+%26+Firebase+Specialist+🔥;Clean+Architecture+Expert+🏗️;Building+Scalable+Digital+Products+✨;AI-Powered+Mobile+Solutions+🤖" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=NhebPanha&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/NhebPanha?style=for-the-badge" />
-<img src="https://img.shields.io/github/stars/NhebPanha?style=for-the-badge" />
-</p>
-
----
-
-# 💫 About Me
-
-```yaml
-name: Nheb Panha
-
-location: Phnom Penh, Cambodia 🇰🇭
-
-role: Flutter Developer
-
-experience:
-  - Mobile Application Development
-  - Enterprise System Development
-  - Full Stack Product Development
-
-specialization:
-  - Flutter & Dart
-  - Supabase & Firebase
-  - Clean Architecture
-  - Bloc State Management
-  - RESTful API Integration
-  - Google Maps & Location Services
-  - Push Notifications
-  - Payment Gateway Integration
-  - CI/CD Deployment
-  - AI Integration
-
-currently_working_on:
-  - Enterprise ERP Systems
-  - Food Delivery Platforms
-  - Digital Wallet Applications
-  - E-Commerce Solutions
-  - AI-Powered Mobile Applications
-
-learning:
-  - SwiftUI
-  - Cloud Architecture
-  - Advanced Flutter Animations
-  - AI Agents & Automation
-  - Scalable Backend Systems
-
-mission:
-  Deliver high-quality mobile experiences that solve real-world business problems.
-
-motto:
-  "Build once. Scale everywhere."
-```
-
----
-
-# ⚡ Tech Stack
-
-## 📱 Mobile Development
+<h3 align="center">
+🚀 Flutter Developer | Mobile Architect | Supabase Specialist | UI/UX Builder
+</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,firebase" />
-</p>
-
-### Expertise
-
-* Flutter
-* Dart
-* Bloc
-* Provider
-* Riverpod
-* Clean Architecture
-* Responsive Design
-* Offline First Applications
-* App Performance Optimization
-
----
-
-## 🔥 Backend & Database
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=supabase,firebase,nodejs,mysql,postgres,mongodb" />
-</p>
-
-### Expertise
-
-* Supabase
-* Firebase
-* PostgreSQL
-* MySQL
-* MongoDB
-* Authentication & Authorization
-* Realtime Applications
-* Storage & Media Management
-* REST APIs
-
----
-
-## ☁️ DevOps & Cloud
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=docker,githubactions,linux,ubuntu,git,github" />
-</p>
-
-### Experience
-
-* Git & GitHub
-* GitLab
-* CI/CD Pipelines
-* Docker
-* Linux Server Management
-* Deployment Automation
-
----
-
-## 🎨 Design & Productivity
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=figma,vscode,postman" />
-</p>
-
-### Workflow
-
-* Figma to Flutter
-* UI/UX Implementation
-* API Testing
-* Agile Development
-
----
-
-# 🚀 Core Expertise
-
-## 📱 Mobile Applications
-
-* Enterprise Applications
-* E-Commerce Platforms
-* Food Delivery Systems
-* Digital Wallet Applications
-* Inventory Management Systems
-* Employee Management Systems
-* Logistics & Delivery Tracking
-* Social Media Applications
-
-## 🏗️ Software Architecture
-
-* Clean Architecture
-* Modular Architecture
-* Feature-Based Structure
-* Scalable State Management
-* SOLID Principles
-
-## 🤖 AI Integration
-
-* AI Chat Assistants
-* OpenAI Integration
-* Content Generation
-* Smart Search Features
-* Workflow Automation
-
----
-
-# 🏆 Professional Highlights
-
-✅ Developed multiple production-ready Flutter applications
-
-✅ Built scalable ERP systems for business operations
-
-✅ Developed real-time food delivery platforms
-
-✅ Created wallet and financial management applications
-
-✅ Implemented Supabase architecture for enterprise projects
-
-✅ Designed and implemented complex Flutter UI/UX systems
-
-✅ Integrated Google Maps, Payment Systems, and Push Notifications
-
-✅ Experience leading complete mobile development lifecycle
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NhebPanha&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhebPanha&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=28&pause=1000&color=FF00FF&center=true&vCenter=true&width=800&lines=Flutter+Expert;Clean+Architecture+Builder;Supabase+%26+Firebase+Engineer;UI%2FUX+Perfectionist;Always+Shipping+Fast+Products" />
 </p>
 
 ---
 
-# 🔥 Featured Projects
+<!-- ================= SOCIAL BADGES ================= -->
 
-## 🏢 Enterprise ERP System
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
-* Employee Management
-* HR Management
-* Payroll Management
-* Attendance Tracking
-* Inventory Management
-* Reporting Dashboard
-* Role & Permission Control
+  <a href="https://linkedin.com/in/YOUR_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-7A3FF2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-## 🍔 Food Delivery Platform
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-FF2D55?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-* Real-Time Order Tracking
-* Driver Navigation
-* Google Maps Integration
-* Push Notifications
-* Payment Integration
-* Delivery Management
-
-## 🛒 E-Commerce Solution
-
-* Product Management
-* Shopping Cart
-* Order Processing
-* Customer Dashboard
-* Analytics & Reports
-
-## 💰 Digital Wallet
-
-* QR Payment
-* Money Transfer
-* Transaction History
-* Wallet Management
-* Security Authentication
+  <a href="https://twitter.com/YOUR_HANDLE">
+    <img src="https://img.shields.io/badge/Twitter-00D4FF?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-# 🌱 Current Focus
+<!-- ================= PROFILE DASHBOARD STYLE ================= -->
 
-🚀 Enterprise Flutter Applications
-
-🔥 Supabase Architecture
-
-🏗️ Clean Architecture
-
-🤖 AI Integration
-
-📱 SwiftUI Development
-
-☁️ Cloud Infrastructure
-
----
-
-# 🌐 Connect With Me
+## 🧠 Developer Dashboard
 
 <p align="center">
 
-<a href="https://github.com/NhebPanha">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" height="170"/>
+
+</p>
+
+---
+
+## ⚡ Tech Arsenal
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,figma,git,github,linux,vscode,postman" />
+</p>
+
+---
+
+<!-- ================= FEATURED GRID ================= -->
+
+## 🚀 Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/YOUR_USERNAME/project1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project1&theme=radical" />
 </a>
 
-<a href="mailto:nhebpanha78@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<a href="https://github.com/YOUR_USERNAME/project2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project2&theme=radical" />
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://github.com/YOUR_USERNAME/project3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project3&theme=radical" />
+</a>
+
+<a href="https://github.com/YOUR_USERNAME/project4">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project4&theme=radical" />
 </a>
 
 </p>
 
 ---
 
-# 💬 Personal Philosophy
+<!-- ================= NEON QUOTE CARD ================= -->
 
-> "Technology should simplify complexity, empower people, and create meaningful experiences. Every line of code should contribute to that goal."
+## 💬 Dev Philosophy
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Is%20Art-ff00ff?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <b>
+  “I don’t just build apps — I design experiences that feel alive.”
+  </b>
+</p>
 
 ---
 
+<!-- ================= ACTIVITY GRAPH ================= -->
+
+## 📈 Activity Graph
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00D4FF,100:0066FF&section=footer"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+<!-- ================= SNAKE ANIMATION ================= -->
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<!-- ================= FOOTER GLOW ================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00d4ff&height=120&section=footer"/>
 </p>
