@@ -60,7 +60,7 @@ Current Focus:
 ## ⚡ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,postgres,mysql,java,spring,laravel,vue,nuxt,tailwind,figma,git,github,linux,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,postgres,mysql,java,spring,vue,figma,git,github,linux,vscode,postman" />
 </p>
 
 ---
