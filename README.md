@@ -1,11 +1,7 @@
 <!-- ================= HERO BANNER ================= -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:7A3FF2,50:FF2D55,100:00D4FF&text=Nheb%20Panha&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
-</p>
-
 <h3 align="center">
-🚀 Senior Flutter Developer • Mobile App Architect • Supabase Specialist • Clean Architecture Expert
+🚀Flutter Developer • Mobile App Architect • Supabase Specialist • Clean Architecture Expert
 </h3>
 
 <p align="center">
