@@ -9,7 +9,7 @@ Building scalable mobile applications with Flutter, Supabase, Firebase, and mode
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=24&pause=1000&color=7A3FF2&center=true&vCenter=true&width=900&lines=Senior+Flutter+Developer;Clean+Architecture+Expert;Supabase+Specialist;Mobile+App+Architect;Crafting+Beautiful+User+Experiences;Always+Learning+Always+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=24&pause=1000&color=7A3FF2&center=true&vCenter=true&width=900&lines=Flutter+Developer;Clean+Architecture+Expert;Supabase+Specialist;Mobile+App+Architect;Crafting+Beautiful+User+Experiences;Always+Learning+Always+Building" />
 </p>
 
 ---
